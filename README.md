@@ -1,1 +1,1 @@
-# PRODIGY_WD-05
+It is web page that fetches weather data from a weather API based on the user's location. It display the current weather conditions, temperature, and other relevant   information.
